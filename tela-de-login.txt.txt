@@ -1,0 +1,5 @@
+Uma tela de login deve ter os critérios basicos como:
+campo para adicionar o login
+campo para adicionar a senha
+botão para logar 
+botão para registrar 
